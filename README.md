@@ -1,6 +1,6 @@
 ## Apliccion básica de comandos en Node
 
-ejemplo sencillo de gestor de tareas CRUD, via comandos.
+ejemplo sencillo de gestor de tareas CRUD, via comandos. Persistiendo los datos en un fichero JSON.
 
 
 ## Instalación
